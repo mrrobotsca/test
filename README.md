@@ -96,4 +96,12 @@ $ copy /Y "Votre path du repertoire\RecupDj.exe" "Z:\Scripts(tous)\Lire_Info_du_
 License
 ----
 
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
 MIT
